@@ -1,2 +1,0 @@
-# midterm-collab-assignment
-midterm
